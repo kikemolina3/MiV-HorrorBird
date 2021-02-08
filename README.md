@@ -1,2 +1,2 @@
 # MiV-HorrorBird
-A simple videogame inspired in flappy bird
+A simple videogame inspired by flappy bird
